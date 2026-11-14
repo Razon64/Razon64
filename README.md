@@ -26,19 +26,17 @@ My research sits where statistical modelling, machine learning and explainable A
 3. **Md Readion Islam**, Mahmudul Hasan, Md Amir Hamja, Kanij Fatema, Most Mozakkera Jahan. *Interpretable Machine Learning Approach to Forecast Sustainable Power Generation.* **Journal of Science and Engineering Papers** 2(01), 113–117, 2025.
 
 **Under review**
+- **Md Readion Islam Razon**, Md. Tanjim, Sadia Rahman, Shadia Sharif, Md. Ziaul Hassan. *Inactivity in Open-Source Repositories: Survival Analysis and Explainable Out-of-Time Prediction* (Information and Software Technology)
+- **Md Readion Islam Razon**, Md. Tanjim, Md. Ziaul Hassan, Toma Roy. *From Attrition Risk to Retention Decisions: A Role-Aware Deep Learning Framework for Causal and Robust HR Analytics* (Operations Management Research)
 - **Md. Readion Islam Razon**, Md. Tanjim, Md. Ziaul Hassan, NF Tushar. *Emotional Drivers of Complaint Behaviour in Bangladeshi Mobile Financial Services Using Machine Learning and Explainable AI* (Expert Systems with Applications)
-- *From Attrition Risk to Retention Decisions: A Role-Aware Deep Learning Framework for Causal and Robust HR Analytics* (Operations Management Research)
-- *Inactivity in Open-Source Repositories: Survival Analysis and Explainable Out-of-Time Prediction* (Information and Software Technology)
 
 ## 🎓 Education
-- **M.S. in Statistics**, HSTU, Dinajpur (2025 – December 2026, expected)
-- **B.Sc. (Hons) in Statistics**, HSTU, Dinajpur (2025)
+- **M.S. in Statistics**, HSTU, Dinajpur · Oct 2025 – Dec 2026 (expected)
+- **B.Sc. (Hons) in Statistics**, HSTU, Dinajpur · 2025
 
-## 🏅 Awards & Leadership
+## 🏅 Awards
 - Top 10 nationally of 100+ teams, Data Innovators Challenge (AI Expert Career), 2024
 - Best Oral Presentation, 1st International Student Conference & Research Fair, University of Rajshahi
-- Research Coordinator & Joint Secretary, HSTU Research Society (2024–2026)
-- Organizing Secretary, Skill Development Club of HSTU (2024)
 
 ## 🚀 Projects
 | Project | Highlights |
