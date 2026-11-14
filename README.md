@@ -1,19 +1,28 @@
 # Hi, I'm Md. Readion Islam Razon 👋
 
-**MS Student in Statistics, HSTU** · **Research Assistant & Analytics Team Lead, CEMRD** · **Founder & CEO, Uexcel** · Tangail, Bangladesh
+🎓 **Prospective Ph.D. Applicant** in Statistics · Machine Learning · Explainable AI
+
+**M.S. in Statistics, HSTU (expected Dec 2026)** · **Research Assistant & Analytics Team Lead, CEMRD** · **Founder & CEO, Uexcel** · Tangail, Bangladesh
 
 🌐 **Homepage:** [razon64.github.io](https://razon64.github.io) · [LinkedIn](https://www.linkedin.com/in/razon) · [Uexcel](https://web.facebook.com/uexcel64/) · [YouTube](https://youtube.com/@uexcel10)
 
 ---
 
 ## 🧑‍🔬 About Me
-I am an MS student in Statistics at HSTU, Dinajpur, with a thesis on **HR analytics and employee attrition**. Since January 2023 I have worked remotely as a Research Assistant and Analytics Team Lead at CEMRD.
+I am a **prospective Ph.D. applicant** in Statistics and Machine Learning, completing my M.S. in Statistics at HSTU, Dinajpur (expected December 2026) with a thesis on **HR analytics and employee attrition**. Since January 2023 I have worked remotely as a Research Assistant and Analytics Team Lead at CEMRD.
 
-**Research interests:** explainable ML (SHAP, LIME, PDP) · federated learning · survival analysis in public health · causal and fairness-aware decision-making · text and emotion analytics.
+My research sits where statistical modelling, machine learning and explainable AI meet real decisions in business, public health and the environment.
 
 I also founded **Uexcel**, which teaches research paper writing and data analysis (SPSS, Python, R) to Bangladeshi university students. It has trained 1,700+ learners for free through live classes.
 
+## 🔬 Research Interests
+- **Statistical learning:** survival analysis, mixed-type clustering, causal inference and sensitivity analysis
+- **Machine learning & deep learning:** tabular deep learning (TabNet, TabM, FT-Transformer), ensembles, federated learning
+- **Explainable & trustworthy AI:** SHAP, LIME, PDP, stability of explanations, fairness-aware models
+- **Business analytics with ML/DL:** HR analytics and attrition, customer complaint and emotion analytics, prescriptive decision-making
+
 ## 📰 News
+- **11/2026**: Applying for Ph.D. positions in Statistics, Machine Learning and Explainable AI.
 - **11/2026**: Launched the Uexcel website.
 - **11/2026**: Lung cancer phenotyping manuscript received a major-revision decision.
 - **10/2025**: Started MS in Statistics at HSTU.
@@ -31,6 +40,10 @@ I also founded **Uexcel**, which teaches research paper writing and data analysi
 | Under-five mortality in Bangladesh: survival analysis + explainable ML (BDHS 2022) | In progress |
 | Nomophobia, phubbing and interpersonal relationships | In progress |
 
+## 🎓 Education
+- **M.S. in Statistics**, HSTU, Dinajpur (2025 – December 2026, expected)
+- **B.Sc. (Hons) in Statistics**, HSTU, Dinajpur (2025)
+
 ## 🚀 Projects
 | Project | Highlights |
 |---|---|
@@ -41,10 +54,6 @@ I also founded **Uexcel**, which teaches research paper writing and data analysi
 | [Agro-Food CO₂ Emission Predictor](https://github.com/Razon64/Agro-Food-CO2-Emission-Predictor-A-Comparative-Machine-Learning-Study) | Extra Trees, LightGBM, CatBoost, LIME |
 | [Film Industry Market Analysis](https://github.com/Razon64/film-industry-market-analysis) | Market-entry analysis of 1,000 films |
 | [Beverage Sales Analysis](https://github.com/Razon64/Beverage-Sales-Analysis) | Excel BI dashboard, pivot tables |
-
-## 🎓 Education
-- **MS in Statistics**, HSTU, Dinajpur (2025 – 2026, expected)
-- **BSc (Hons) in Statistics**, HSTU, Dinajpur (2025)
 
 ## 🛠️ Technical Skills
 - **Statistics:** survival analysis (Cox PH), regression, clustering, survey analysis
